@@ -105,7 +105,7 @@ if start_quiz.upper() == "Y":
 
     # Question 5
 
-    print("5. Which NBA Player had the most technical foul in the 2025-2026 season?")
+    print("5. Which NBA player had the most technical fouls in the 2025-2026 season?")
     print("     A. Devin Booker")
     print("     B. Dillion Brooks")
     print("     C. Draymond Green")
