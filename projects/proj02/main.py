@@ -55,7 +55,7 @@ b. Jack's weekend with the family
         vehicle = input("3) Enter a type of transportation: ")
         color = input("4) Enter the color of your shirt: ")
         clothing = input("5) Enter an item of clothing: ")
-        hours = int(input("6) Enter a from 1 to 10: "))
+        hours = int(input("6) Enter a number from 1 to 10: "))
         print()
         print(f"{player_name}, here is your story:")
         print()
